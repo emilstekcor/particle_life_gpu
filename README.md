@@ -1,0 +1,1 @@
+so it currently uses a grouping implementation and dual numbers to take advantage of the gpu, I am using a 3090 so when I turn it on it is super super fast as it is running on combination logic. ![image](https://github.com/emilstekcor/particle_life_gpu/assets/27902407/a3f5497a-e79b-43e1-a1f5-1ad5d9bafb60)
